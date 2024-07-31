@@ -47,3 +47,7 @@ Lampu indikator yang disematkan pada setiap tombol memberikan visualisasi status
 3. **Mode Otomatis:**
    - Tekan tombol ketiga untuk mengaktifkan mode otomatis.
    - Sensor ultrasonik akan mengontrol pembukaan dan penutupan palang pintu berdasarkan jarak objek yang terdeteksi.
+  
+## Foto
+![WhatsApp Image 2023-12-15 at 17 31 15_c032974c](https://github.com/user-attachments/assets/f2c5393e-456f-48e7-9334-8b03bc9dc06c)
+
